@@ -1,4 +1,4 @@
-# Homelessness
+# Homelessness Rate Prediction
 This project uses the data science methodology to investigate homelessness in the U.S.
 
 1. Introduction: 
